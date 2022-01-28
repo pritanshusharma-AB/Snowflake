@@ -1,0 +1,1 @@
+select * from Supply_chain_analytics_T.DIM_LOCATION
